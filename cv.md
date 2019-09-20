@@ -2,20 +2,23 @@
 
 ### Contact Info 
 -------------------     ----------------------------
-city: \###############\
-email: email@example.com\
-phone:\###-##-##-###\
-skype:\##############\
-telegram:\##############
+city: \###############  
+email: email@example.com  
+phone:\###-##-##-###  
+skype:\##############  
+telegram:\##############  
+
 -------------------     ----------------------------
 
 ### Summary
 -------------------     ----------------------------
 Motivated, teamwork-oriented, and responsible developer with significant experience in increasing comprehension of develop and architectural solutions. Highly educated, prossessing a Bachelor's, a Master's. I want to master the front-end, to be more qualified full-stack developer.
+
 -------------------     ----------------------------
 
 ### Skills
 -------------------     ----------------------------
+
 | Professional | |
 | ------ | ------ |
 |Programing languages|Python 2.7 – 3.X, SQL|
@@ -38,7 +41,7 @@ Motivated, teamwork-oriented, and responsible developer with significant experie
 
 ### Experience
 -------------------     ----------------------------
-######Jan 2019 - Sep 2019
+###### Jan 2019 - Sep 2019
 
 **Python Developer**
 
@@ -61,7 +64,7 @@ Motivated, teamwork-oriented, and responsible developer with significant experie
 * Bitbucket, Jira, Conflence
 
 
-######Aug 2018 - Dec 2018
+###### Aug 2018 - Dec 2018
 
 **Python Developer**
 
@@ -83,7 +86,7 @@ PostgreSQL
 * Bitbucket, Jira, Conflence
 
 
-######Aug 2017 - Jan 2018
+###### Aug 2017 - Jan 2018
 
 **Python Developer**
 
@@ -104,7 +107,7 @@ PostgreSQL
 * GitLab, Jira, Redmine
 
 
-######Aug 2016 - Nov 2016
+###### Aug 2016 - Nov 2016
 
 **Python Developer**
 
@@ -121,7 +124,7 @@ outsourcing team
 * python 2.7, Django 1.8, PostgreSQL, PostGIS, Redis, Unittest, factory-boy, mock
 * GitLab, Redmine
 
-######Feb 2015 - Jan 2016
+###### Feb 2015 - Jan 2016
 
 **System Administrator**
 
@@ -132,14 +135,14 @@ outsourcing team
 
 ### Education
 -------------------     ----------------------------
-######2016 - 2017
+###### 2016 - 2017
 
 **Student**
 
 [UNIT Factory](https://unit.ua/en/)
 
 
-######2013 - 2014
+###### 2013 - 2014
 
 **Master’s degree**
 
@@ -149,7 +152,7 @@ Faculty of Systems and Methods of Decision Making, Department of Information
 Systems and Networks
 
 
-######2009 - 2013
+###### 2009 - 2013
 
 **Bachelor degree**
 
@@ -163,6 +166,7 @@ Faculty of Systems Analysis, Department of Information Systems and Networks
 -------------------     ----------------------------
 * Attended English courses for two years.
 * Attended English Speaking Club for seven months.
+
 -------------------     ----------------------------
 
 
