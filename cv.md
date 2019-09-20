@@ -158,3 +158,9 @@ Systems and Networks
 Faculty of Systems Analysis, Department of Information Systems and Networks
 
 -------------------     ----------------------------
+
+### English
+-------------------     ----------------------------
+* Attended English courses for two years.
+* Attended English Speaking Club for seven months.
+-------------------     ----------------------------
