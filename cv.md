@@ -164,3 +164,26 @@ Faculty of Systems Analysis, Department of Information Systems and Networks
 * Attended English courses for two years.
 * Attended English Speaking Club for seven months.
 -------------------     ----------------------------
+
+
+### Code examples
+-------------------     ----------------------------
+#### some code when I studied UNIT Factory, [check link](https://github.com/ayatsyny/fdf/blob/master/double_list.c)
+```buildoutcfg
+void	add_last(t_fdf **head, t_fdf **tail, t_fdf *new_node)
+{
+
+	new_node->prev = *tail;
+	new_node->next = NULL;
+	if (!*tail)
+		*tail = new_node;
+	else
+	{
+		(*tail)->next = new_node;
+		*tail = new_node;
+	}
+	if (!*head)
+		*head = *tail;
+}
+```
+-------------------     ----------------------------
