@@ -6,7 +6,7 @@ city: \###############\
 email: email@example.com\
 phone:\###-##-##-###\
 skype:\##############\
-telegram:\##############\
+telegram:\##############
 -------------------     ----------------------------
 
 ### Summary
@@ -169,7 +169,7 @@ Faculty of Systems Analysis, Department of Information Systems and Networks
 ### Code examples
 -------------------     ----------------------------
 #### some code when I studied UNIT Factory, [check link](https://github.com/ayatsyny/fdf/blob/master/double_list.c)
-```buildoutcfg
+```C
 void	add_last(t_fdf **head, t_fdf **tail, t_fdf *new_node)
 {
 
