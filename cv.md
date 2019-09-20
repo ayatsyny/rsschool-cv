@@ -18,7 +18,7 @@ Motivated, teamwork-oriented, and responsible developer with significant experie
 -------------------     ----------------------------
 | Professional | |
 | ------ | ------ |
-|Programing languages|Python 2.7 – 3.X|
+|Programing languages|Python 2.7 – 3.X, SQL|
 |Library / Frameworks|Django, DRF, Celery|
 |Testing|Unittest|
 |Database|PostgreSQL, MongoDB|
@@ -34,3 +34,100 @@ Motivated, teamwork-oriented, and responsible developer with significant experie
 |Library / Frameworks|Swagger, Elasticsearch|
 
 -------------------     ----------------------------
+
+
+### Experience
+-------------------     ----------------------------
+######Jan 2019 - Sep 2019
+
+**Python Developer**
+
+[Morbax HR](https://morbax.com/)
+
+
+*Tasks:*
+
+* create new functionality
+* create autocomplete with use Elasticsearch
+* refactor code
+* code review
+* design and development of web services
+* move some code into a micro-services architecture
+* participate in the development of business logic
+
+*Tools and Technologies:*
+
+* python 3.6, Django, DRF, Celery, Redis, PostgreSQL, Swagger
+* Bitbucket, Jira, Conflence
+
+
+######Aug 2018 - Dec 2018
+
+**Python Developer**
+
+[MEV](https://mev.com/en)
+
+
+*Tasks:*
+
+* fix-bug
+* rewrite the script and integrate it into the site
+* estimate tasks
+* participate in the development of business logic
+
+
+*Tools and Technologies:*
+
+* python 3.6, Pandas, matplotlib, reportlab, Django, DRF, Celery + RabbitMQ, Docker,
+PostgreSQL
+* Bitbucket, Jira, Conflence
+
+
+######Aug 2017 - Jan 2018
+
+**Python Developer**
+
+[SECL Group](https://secl.com.ua)
+
+
+*Tasks:*
+
+* project support
+* rewriting some functionality
+* estimate tasks
+* fix-bug
+
+
+*Tools and Technologies:*
+
+* python 2.7, Django, Celery, PostgreSQL, Redis
+* GitLab, Jira, Redmine
+
+
+######Aug 2016 - Nov 2016
+
+**Python Developer**
+
+outsourcing team
+
+
+*Tasks:*
+
+* Coverage unit and integration tests project code (this project was covered by 80%)
+
+
+*Tools and Technologies:*
+
+* python 2.7, Django 1.8, PostgreSQL, PostGIS, Redis, Unittest, factory-boy, mock
+* GitLab, Redmine
+
+######Feb 2015 - Jan 2016
+
+**System Administrator**
+
+[Estella](https://estella.ua)
+
+
+
+-------------------     ----------------------------
+
