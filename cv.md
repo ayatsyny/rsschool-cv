@@ -127,7 +127,34 @@ outsourcing team
 
 [Estella](https://estella.ua)
 
-
-
 -------------------     ----------------------------
 
+
+### Education
+-------------------     ----------------------------
+######2016 - 2017
+
+**Student**
+
+[UNIT Factory](https://unit.ua/en/)
+
+
+######2013 - 2014
+
+**Master’s degree**
+
+[Lviv Polytechnic National University](http://lp.edu.ua)
+
+Faculty of Systems and Methods of Decision Making, Department of Information
+Systems and Networks
+
+
+######2009 - 2013
+
+**Bachelor degree**
+
+[Lviv Polytechnic National University](http://lp.edu.ua)
+
+Faculty of Systems Analysis, Department of Information Systems and Networks
+
+-------------------     ----------------------------
