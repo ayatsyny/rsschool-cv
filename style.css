@@ -1,0 +1,69 @@
+body {
+  width: 1024px;
+  text-align: center;
+}
+
+h1,
+h3,
+.name-job {
+  color: green;
+}
+
+
+.container {
+  width: 100%;
+  margin: auto;
+}
+
+.education-title {
+  display: block;
+  color: green;
+}
+
+.first {
+  width: 30%;
+  float: left;
+}
+
+.second {
+  width: 70%;
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+pre {
+  font-family: Consolas, Lucida Console, monospace, serif;
+  text-align: left;
+  margin-bottom: 10px;
+  width: auto;
+  padding: 5px;
+  background-color: #eeeeee;
+  max-height: 600px;
+}
+
+pre > code {
+  position: relative;
+  left: 25%;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+ }
+
+.organization {
+  margin: 5px;
+}
+
+i {
+  display: block;
+  margin-top: 10px;
+}
+
+hr {
+  border: 1px solid green;
+  border-radius: 5px;
+}
