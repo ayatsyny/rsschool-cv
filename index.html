@@ -6,13 +6,13 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <img src="avatar.jpg" alt="avatar" width="15%" height="15%">
+  <img src="avatar.jpg" alt="avatar" width="153" height="230">
   <h1>Andriy Yatsynyak</h1>
   <span>
     City|
     <a href="tel:XXX-XX-XX-XXX">+XXX-XX-XX-XXX</a>|
     skype: <a href="skype:XXXX?call">XXXX</a> |
-    <a href = "mailto: email@example.com">email@example.com</a>
+    <a href="mailto:email@example.com">email@example.com</a>
     | telegram: XXXXXXX</span>
   <h3>Summary</h3>
   <hr>
@@ -23,44 +23,62 @@
   <hr>
   <table style="width:100%">
     <tr>
-      <th>Professional</th>
-      <th></th>
+      <th colspan="2">Professional</th>
+      <th colspan="2">Beginner</th>
     </tr>
     <tr>
       <td>Programing languages</td>
       <td>Python 2.7 – 3.X, SQL</td>
+      <td>Technologies</td>
+       <td>HTML, CSS, websocket, Docker, JS</td>
     </tr>
     <tr>
       <td>Library / Frameworks</td>
       <td>Django, DRF, Celery</td>
+      <td>Library / Frameworks</td>
+      <td>Swagger, Elasticsearch</td>
     </tr>
     <tr>
       <td>Testing</td>
       <td>Unittest</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Database</td>
       <td>PostgreSQL, MongoDB</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>VCS</td>
       <td>GIT</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Bug tracking tool</td>
       <td>Jira</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Methodologies</td>
       <td>Scrum, Kanban</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Operating Systems</td>
       <td>Linux (Ubuntu / Debian), Windows Desktop</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Development Tools</td>
       <td>PyCharm</td>
+      <td></td>
+      <td></td>
     </tr>
   </table>
   <h3>Experience</h3>
@@ -70,8 +88,8 @@
       <b>Jan 2019 - Sep 2019</b>
     </div>
     <div class="second">
-      <b>Python Developer</b>
-      <div>Morbax HR</div>
+      <b class="name-job">Python Developer</b>
+      <div class="organization"><a href="https://morbax.com/">Morbax HR</a></div>
       <i>Tasks:</i>
       <ul>
         <li>create new functionality</li>
@@ -96,8 +114,8 @@
       <b>Aug 2018 - Dec 2018</b>
     </div>
     <div class="second">
-      <b>Python Developer</b>
-      <div>MEV</div>
+      <b class="name-job">Python Developer</b>
+      <div class="organization"><a href="https://mev.com/en">MEV</a></div>
       <i>Tasks:</i>
       <ul>
         <li>fix-bug</li>
@@ -119,8 +137,8 @@
       <b>Aug 2017 - Jan 2018</b>
     </div>
     <div class="second">
-      <b>Python Developer</b>
-      <div>SECL Group</div>
+      <b class="name-job">Python Developer</b>
+      <div class="organization"><a href="https://secl.com.ua/">SECL Group</a></div>
       <i>Tasks:</i>
       <ul>
         <li>project support</li>
@@ -142,8 +160,8 @@
       <b>Aug 2016 - Nov 2016</b>
     </div>
     <div class="second">
-      <b>Python Developer</b>
-      <div>outsourcing team</div>
+      <b class="name-job">Python Developer</b>
+      <div class="organization">outsourcing team</div>
       <i>Tasks:</i>
       <ul>
         <li>Coverage unit and integration tests project code (this project was covered by 80%)</li>
@@ -162,8 +180,8 @@
       <b>Feb 2015 - Jan 2016</b>
     </div>
     <div class="second">
-      <b>System Administrator</b>
-      <div>Estella</div>
+      <b class="name-job">System Administrator</b>
+      <div><a href="https://estella.ua/">Estella</a></div>
     </div>
     <div class="clear">
     </div>
@@ -175,8 +193,8 @@
       <b>2016 - 2017</b>
     </div>
     <div class="second">
-      <b>Student</b>
-      <div>UNIT Factory</div>
+      <b class="education-title">Student</b>
+      <div class="organization"><a href="https://unit.ua/en/">UNIT Factory</a></div>
     </div>
     <div class="clear">
     </div>
@@ -186,8 +204,8 @@
       <b>2013 - 2014</b>
     </div>
     <div class="second">
-      <b>Master’s degree</b>
-      <div>Lviv Polytechnic National University</div>
+      <b class="education-title">Master’s degree</b>
+      <div class="organization"><a href="http://lp.edu.ua/">Lviv Polytechnic National University</a></div>
       <div>Faculty of Systems and Methods of Decision Making, Department of Information Systems and Networks</div>
     </div>
     <div class="clear">
@@ -198,8 +216,8 @@
       <b>2009 - 2013</b>
     </div>
     <div class="second">
-      <b>Bachelor degree</b>
-      <div>Lviv Polytechnic National University</div>
+      <b class="education-title">Bachelor degree</b>
+      <div class="organization"><a href="http://lp.edu.ua/">Lviv Polytechnic National University</a></div>
       <div>Faculty of Systems Analysis, Department of Information Systems and Networks</div>
     </div>
     <div class="clear">
@@ -212,25 +230,25 @@
    <h3>Code examples</h3>
   <hr>
   <p>some code when I studied UNIT Factory,
-    <a href="https://github.com/ayatsyny/fdf/blob/master/double_list.c">check link</a>
+    <a href="https://github.com/ayatsyny/fdf/blob/master/double_list.c">click link</a>
   </p>
   <pre>
     <code>
-void	add_last(t_fdf **head, t_fdf **tail, t_fdf *new_node)
-    {
+        void	add_last(t_fdf **head, t_fdf **tail, t_fdf *new_node)
+            {
 
-	new_node->prev = *tail;
-	new_node->next = NULL;
-	if (!*tail)
-		*tail = new_node;
-	else
-	{
-		(*tail)->next = new_node;
-		*tail = new_node;
-	}
-	if (!*head)
-		*head = *tail;
-}
+            new_node->prev = *tail;
+            new_node->next = NULL;
+            if (!*tail)
+                *tail = new_node;
+            else
+            {
+                (*tail)->next = new_node;
+                *tail = new_node;
+            }
+            if (!*head)
+                *head = *tail;
+        }
     </code>
   </pre>
 </body>
